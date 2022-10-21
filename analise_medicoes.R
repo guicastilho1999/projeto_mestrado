@@ -1,5 +1,5 @@
 ## Definir área de trabalho
-setwd("C:/Users/guiks/OneDrive - Unesp/UNESP/Graduação/Iniciação Científica/2021")
+#setwd("C:/Users/guiks/OneDrive - Unesp/UNESP/Graduação/Iniciação Científica/2021")
 
 ## Biblioteca para ler arquivos em excel
 library(readxl)
